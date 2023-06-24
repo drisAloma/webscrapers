@@ -1,1 +1,1 @@
-#### webscrapers built with beautisoup and selenium
+#### webscrapers built with beautifulsoup and selenium
